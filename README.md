@@ -63,14 +63,14 @@ for i in range(0,9):
 ### Original Image and Grayscale Image
 ![001](https://user-images.githubusercontent.com/75234646/169647396-0ca0617d-0b4e-4b75-8162-2a46dd79c1e8.png)
 ### Global Thresholding
-![002](https://user-images.githubusercontent.com/75234646/169647398-2621ca60-e319-4ac2-9dbc-627edfdf5cc5.png)
-![003](https://user-images.githubusercontent.com/75234646/169647400-5bb41958-c519-43c8-b331-7c94edb648bf.png)
-![004](https://user-images.githubusercontent.com/75234646/169647402-11560331-e493-4b52-9ede-ecda487fa854.png)
-![005](https://user-images.githubusercontent.com/75234646/169647406-58bfcc9d-58b5-4324-b3e3-ea12c017c266.png)
+![002](https://user-images.githubusercontent.com/75234646/169647398-2621ca60-e319-4ac2-9dbc-627edfdf5cc5.png) <br/>
+![003](https://user-images.githubusercontent.com/75234646/169647400-5bb41958-c519-43c8-b331-7c94edb648bf.png)<br/>
+![004](https://user-images.githubusercontent.com/75234646/169647402-11560331-e493-4b52-9ede-ecda487fa854.png)<br/>
+![005](https://user-images.githubusercontent.com/75234646/169647406-58bfcc9d-58b5-4324-b3e3-ea12c017c266.png)<br/>
 ![006](https://user-images.githubusercontent.com/75234646/169647524-e590db31-8335-407b-bb97-c709868360d9.png)
 ### Adaptive Thresholding
-![1](https://user-images.githubusercontent.com/75234646/169647528-570484b4-8271-4288-b052-34cc82afb30a.png)
-![2](https://user-images.githubusercontent.com/75234646/169647531-e11df725-9390-4a00-a7c7-693a7d3d9cb9.png)
+![1](https://user-images.githubusercontent.com/75234646/169647528-570484b4-8271-4288-b052-34cc82afb30a.png)<br/>
+![2](https://user-images.githubusercontent.com/75234646/169647531-e11df725-9390-4a00-a7c7-693a7d3d9cb9.png)<br/>
 ### Optimum Global Thesholding using Otsu's Method
 ![otsu](https://user-images.githubusercontent.com/75234646/169647525-9a170a93-0700-4d7b-aa2a-a7b5714b9f2f.png)
 ## RESULT:
